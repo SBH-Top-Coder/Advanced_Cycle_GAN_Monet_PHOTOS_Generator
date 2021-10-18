@@ -1,4 +1,4 @@
-# Advanced_Cycle_GAN_Monet_PHOTOS_Generator
+# Advanced_Cycle_GAN_Monet_PHOTOS_Generator (Silver Medal ) 
 
 A notebook containing the implementation of the GAN from scratch cycle for the generation of Monet style photos from normal style photos with all possible model 
 
